@@ -1,0 +1,3 @@
+/Users/jacob/Desktop/UO/SciVis/p4/CMakeFiles/rebuild_cache.dir
+/Users/jacob/Desktop/UO/SciVis/p4/CMakeFiles/edit_cache.dir
+/Users/jacob/Desktop/UO/SciVis/p4/CMakeFiles/proj4.dir

@@ -1,0 +1,3 @@
+/Users/jacob/Desktop/UO/SciVis/p5/CMakeFiles/rebuild_cache.dir
+/Users/jacob/Desktop/UO/SciVis/p5/CMakeFiles/edit_cache.dir
+/Users/jacob/Desktop/UO/SciVis/p5/CMakeFiles/proj5.dir

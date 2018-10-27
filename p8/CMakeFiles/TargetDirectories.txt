@@ -1,0 +1,3 @@
+/Users/jacob/Desktop/UO/SciVis/p8/CMakeFiles/rebuild_cache.dir
+/Users/jacob/Desktop/UO/SciVis/p8/CMakeFiles/edit_cache.dir
+/Users/jacob/Desktop/UO/SciVis/p8/CMakeFiles/proj8.dir

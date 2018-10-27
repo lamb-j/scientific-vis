@@ -1,0 +1,3 @@
+/Users/jacob/Desktop/UO/SciVis/ray_casting/CMakeFiles/rebuild_cache.dir
+/Users/jacob/Desktop/UO/SciVis/ray_casting/CMakeFiles/edit_cache.dir
+/Users/jacob/Desktop/UO/SciVis/ray_casting/CMakeFiles/astro.dir

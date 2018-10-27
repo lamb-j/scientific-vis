@@ -1,0 +1,5 @@
+1. Refactor project 7 code, removing uneeded stuff and rewriting some funcitons
+2. Convert some C++ classes to C arrays and pointers for passing stuff to OpenCL
+3. Figure out OpenCL stuff as far as passing stuff to kernel and getting back stuff
+4. Rewrite serial version because turns out old serial version not easily parallelized
+5. Implement new serial version in OCL 
